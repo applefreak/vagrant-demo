@@ -1,5 +1,7 @@
 # Vagrant Demo
 
+[![Build Status](https://travis-ci.org/applefreak/vagrant-demo.svg?branch=master)](https://travis-ci.org/applefreak/vagrant-demo)
+
 In this demo, I will demostrate the power of [Vagrant](https://www.vagrantup.com/).
 
 I will be using `ubuntu/trusty64` as my starting Vagrant Box, then install [NVM](https://github.com/creationix/nvm) and latest stable Node.js.
