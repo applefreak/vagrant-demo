@@ -1,6 +1,8 @@
 language: node_js
 node_js:
   - '7'
-script:
+before_install:
   - cd code
+  - npm install
+script:
   - npm test
