@@ -4,7 +4,7 @@ In this demo, I will demostrate the power of [Vagrant](https://www.vagrantup.com
 
 I will be using `ubuntu/trusty64` as my starting Vagrant Box, then install [NVM](https://github.com/creationix/nvm) and latest stable Node.js.
 
-I've also set up a sharing folder called `code` that hosts our project. So we can edit on our host machine!
+I've also set up a sharing folder called `code` that contains our project files. So we can edit them on our host machine!
 
 ## Setup
 
@@ -21,6 +21,14 @@ Let's run our server!
 $ cd code
 $ npm install
 $ npm start
+```
+
+## Testing
+
+A good code should pass all tests. To run the tests:
+
+```bash
+$ npm test
 ```
 
 ## That's It!
