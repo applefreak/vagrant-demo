@@ -1,6 +1,6 @@
 # Vagrant Demo
 
-[![Build Status](https://travis-ci.org/applefreak/vagrant-demo.svg?branch=master)](https://travis-ci.org/applefreak/vagrant-demo)
+[![Build Status](https://travis-ci.org/applefreak/vagrant-demo.svg?branch=master)](https://travis-ci.org/applefreak/vagrant-demo) [![Coverage Status](https://coveralls.io/repos/github/applefreak/vagrant-demo/badge.svg?branch=master)](https://coveralls.io/github/applefreak/vagrant-demo?branch=master)
 
 In this demo, I will demostrate the power of [Vagrant](https://www.vagrantup.com/).
 
