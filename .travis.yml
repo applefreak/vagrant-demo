@@ -3,6 +3,5 @@ node_js:
   - '7'
 before_install:
   - cd code
-  - npm install
 script:
   - npm test
